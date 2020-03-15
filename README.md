@@ -1,5 +1,5 @@
 <div align="middle">
-    <p><img src="https://img.kirameki.one/uk6QacfI.png" alt="Kakyo Logo" height="450" /></p>
+    <p><img src="https://img.kirameki.one/uk6QacfI.png" alt="Kakyo Logo" height="300" /></p>
     <h1>Kakyo</h1>
     <a href="#"><img src="https://circleci.com/gh/moondrop/kakyo.svg?style=svg" alt="Circle CI"/></a>
     <a href="httos://www.npmjs.com/package/kakyo"><img src="https://img.shields.io/npm/v/kakyo.svg?color=ffb346"></a>
@@ -20,7 +20,7 @@ $ npm install kakyo
 ```
 Alternatively you can also use yarn:
 ```
-yarn add kakyo
+$ yarn add kakyo
 ```
 
 ## Example Usage
