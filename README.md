@@ -2,7 +2,7 @@
     <p><img src="https://img.kirameki.one/uk6QacfI.png" alt="Kakyo Logo" height="350" /></p>
     <h1>Kakyo</h1>
     <a href="#"><img src="https://circleci.com/gh/moondrop/kakyo.svg?style=svg" alt="Circle CI"/></a>
-    <a href="httos://www.npmjs.com/package/kakyo"><img src="https://img.shields.io/npm/v/kakyo.svg?color=ffb346"></a>
+    <a href="https://www.npmjs.com/package/kakyo"><img src="https://img.shields.io/npm/v/kakyo.svg?color=ffb346"></a>
     <a href="#"><img src="https://img.shields.io/badge/node-10.15.1-ffb346.svg"></a>
     <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-ffb346.svg"></a>
     <p>A revolutionarily simple and easy to use i18n library easily integrable into any existing code base!</p>
