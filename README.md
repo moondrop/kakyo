@@ -140,6 +140,6 @@ if (successfullyReloaded) {
 **Returns:** `Promise<Boolean>` **-** *Resolves with a truthy promise upon successful reload!*
 
 ## License
-This repository makes use of the [MIT License](https://opensource.org/licenses/MIT) and all of its ocrrelating traits.
+This repository makes use of the [MIT License](https://opensource.org/licenses/MIT) and all of its correlating traits.
 
 While it isn't mandatory, a small credit would be highly appreciated if this repository was to be reused!
