@@ -118,6 +118,25 @@ const result = translations.get('WELCOME_MESSAGE', { username: 'Bob' }, 'ja_JP')
 
 <hr />
 
+### `getDefaultLocale()` - Get the currently active default locale:
+```js
+const currentDefaultLocale = translations.getDefaultLocale();
+```
+**Returns:** `String` **-** *The currently active default locale for this Kakyo instance.*
+
+<hr />
+
+### `setDefaultLocale(locale)` - Set a new default locale:
+```js
+translations.setDefaultLocale('ja_JP');
+```
+* **locale** `String` **-** *The new default locale that is wished to be set.*
+    * *Head's up! Locales are cAsE sEnSiTiVe!*
+
+**Returns:** `void` **-** *Setting a new default locale has no return value!*
+
+<hr />
+
 ### `reload()` - Reload Kakyo's localisation files cache:
 *Classic syntax:*
 ```js
