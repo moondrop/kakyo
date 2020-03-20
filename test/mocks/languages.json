@@ -1,0 +1,9 @@
+{
+    "en_US": {
+        "LEVEL_UP_MESSAGE": "Congratulations, #{username}#! you are now level #{level}#!"
+    },
+
+    "ja_JP": {
+        "LEVEL_UP_MESSAGE": "おめでとう！#{username}#のレベルは#{level}#です！"
+    }
+}
